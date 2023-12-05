@@ -4,7 +4,7 @@ from google_streetview import api
 
 def get_google_maps_api_key():
     # Replace 'YOUR_API_KEY' with your actual Google Maps API key
-    return 'AIzaSyDiOm5bW-S9i3eiS1kMEkbPc4dNDQqNnug'
+    return 'API_KEY'
 
 def get_optimized_path(api_key, origin, destination, mode='walking', departure_time='now'):
     gmaps = googlemaps.Client(key=api_key)
