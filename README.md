@@ -20,5 +20,5 @@
 ---Folder: Hackathon-CorporateVisionaries/google_maps_apis/street_view_api.py
 
 ### 4. Activity Diagram
-![alt text](https://https://github.com/shekhar-hippargi/Hackathon-CorporateVisionaries/blob/main/resources/Activity_Diagram.png?raw=true)
+![alt text](https://https://github.com/shekhar-hippargi/Hackathon-CorporateVisionaries/blob/main/resources/Activity_Diagram.png)
 
